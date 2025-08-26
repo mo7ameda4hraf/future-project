@@ -1,0 +1,27 @@
+.providetitle{
+    text-align: right !important;
+}
+.here{
+    text-align: right;
+}
+.here .text{
+    padding-right: 3%;
+}
+.head2 p{
+    padding-right: 0;
+}
+.ask {
+    text-align: right;
+    position: absolute;
+}
+.head2 img {
+    float: right;
+    margin-top: 15%;
+}
+nav .mr-3{
+    margin-left: 1rem !important;
+}
+.form .first_img{
+    margin-right: 0 !important;
+    margin-left: 10%; 
+}
